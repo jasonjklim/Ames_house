@@ -1,3 +1,5 @@
+# This is my work on GA. I participated two kaggle competitions with same dataset, Ames House data. In this project, I created two different types of models, which are regression and classification. 
+
 # Project 3 - Ames Housing Data and Kaggle Challenges
 
 Due Date: November 8, 2017
